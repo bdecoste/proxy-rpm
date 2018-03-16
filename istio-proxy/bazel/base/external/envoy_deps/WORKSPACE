@@ -1,0 +1,2 @@
+# DO NOT EDIT: automatically generated WORKSPACE file for envoy_repository rule
+workspace(name = "envoy_deps")

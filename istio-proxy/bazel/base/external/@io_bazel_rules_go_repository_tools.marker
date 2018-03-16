@@ -1,0 +1,5 @@
+8a1bb5fe2be29b788d5b594f293676c1
+ENV:TMP \0
+FILE:@com_github_bazelbuild_buildtools//:WORKSPACE 3d2198c461c01384b5038e0fe319ef45798307e6464edc4d5694499d3950509b
+FILE:@go_sdk//:bin/go 9ba1893ff0f26ad7721bc2d4c34e5d201b9fe7760a180a3c635fcda5a737876e
+FILE:@io_bazel_rules_go//go/tools:BUILD.bazel e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855

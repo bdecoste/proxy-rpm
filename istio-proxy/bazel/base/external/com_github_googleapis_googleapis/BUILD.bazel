@@ -1,0 +1,18 @@
+
+package(default_visibility = ["//visibility:public"])
+
+load("@com_google_protobuf//:protobuf.bzl", "cc_proto_library")
+
+cc_proto_library(
+    name = "rpc_status_proto",
+    srcs = [
+        "google/rpc/status.proto",
+    ],
+    visibility = ["//visibility:public"],
+    protoc = "//external:protoc",
+    default_runtime = "//external:protobuf",
+    deps = [
+        "//external:cc_wkt_protos",
+    ],
+)
+

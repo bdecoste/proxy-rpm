@@ -1,0 +1,20 @@
+2ac8be443d1e12c27212cd5f88effd23
+ENV:CC \0
+ENV:CFLAGS \0
+ENV:CXX \0
+ENV:CXXFLAGS \0
+ENV:LD_LIBRARY_PATH /opt/rh/llvm-toolset-7/root/usr/lib64:/opt/rh/devtoolset-4/root/usr/lib64:/opt/rh/devtoolset-4/root/usr/lib
+FILE:@envoy//bazel:repositories.sh d40643dbb747f0645d695ad213fbb13f973a3fe747b505fdcbc020750e09b775
+FILE:@envoy//ci/build_container/build_recipes:benchmark.sh 0686b9c2774a6d802ed5ebc6c0dee01f0c6176ac04467e283ad70f732b39c90d
+FILE:@envoy//ci/build_container/build_recipes:boringssl.sh 98123578de291a278a4bfe0b4271c2ead26b7bb344022f6f48e8ccb482acf9a6
+FILE:@envoy//ci/build_container/build_recipes:cares.sh bc813d767896885b08426c068cd6becc6e83d73d48eec3f16e9113464a4c98bb
+FILE:@envoy//ci/build_container/build_recipes:gperftools.sh e49d807c55dd2b4a2aa352a1ef8df20c454c69cbc65c616df112959f6a894b20
+FILE:@envoy//ci/build_container/build_recipes:libevent.sh f9dacf1e8fdb39c7322ce1a2511f121032d42c34340b6a414f37e5e6acde81dc
+FILE:@envoy//ci/build_container/build_recipes:luajit.sh 0a7db0c4699070891bad6efb01cfd8fcda7b5be2b08b98d12b9f6e807d2107f2
+FILE:@envoy//ci/build_container/build_recipes:nghttp2.sh e60b3910fb3d0ce4d960f220c8a4d04b2a284ad7b870f7152c7565ea7512a805
+FILE:@envoy//ci/build_container/build_recipes:yaml-cpp.sh c1756c0d405807066a51bc98c10ff6468826c7e2ef9efbbdffb832d2671d8bdd
+FILE:@envoy//ci/build_container/build_recipes:zlib.sh 34606e1ae3a459e376f5bfc0f43aecf76f9fd1354a455154e2bbe33a9f492e68
+FILE:@envoy//ci/build_container:Makefile e91d9c697937d35b29f24ec509df92b6a216ac717555f4e8a9d8b3ead45a40b2
+FILE:@envoy//ci/build_container:build_and_install_deps.sh 31467fc8ef04c8e2b37627ddb21b87e261ce91c2ebf1ea44b51b7304f7ed6753
+FILE:@envoy//ci/build_container:recipe_wrapper.sh c27d1c3aafdca13de4615c8521636243a0401788c3affbb675ea531321ec9383
+FILE:@envoy//ci/prebuilt:BUILD 11bf2c390fb4d2b68aaffa7c76957f99c8c68d0e7b087bec4f75b8386be25981

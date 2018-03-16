@@ -1,0 +1,4 @@
+pid=29014
+owner=client
+cwd=/tmp/istio-proxy/proxy
+tty=/dev/pts/4

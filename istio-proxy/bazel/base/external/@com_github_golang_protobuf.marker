@@ -1,0 +1,3 @@
+5d6a014651559a7a179c53e4f2710226
+FILE:@io_bazel_rules_go_repository_tools//:bin/fetch_repo 77abd9a176fe23b7e8ff2629e97cfff61d0e34662473abc9fb1bf8c6d21db153
+FILE:@io_bazel_rules_go_repository_tools//:bin/gazelle 3ef72f7b393db301393866586603d7e31ad3240bc5d9908fab648a66322e2cde

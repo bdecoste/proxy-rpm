@@ -1,0 +1,2 @@
+# DO NOT EDIT: automatically generated WORKSPACE file for go_download_sdk rule
+workspace(name = "go_sdk")

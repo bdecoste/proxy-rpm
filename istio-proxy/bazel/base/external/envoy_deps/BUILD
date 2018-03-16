@@ -1,0 +1,1 @@
+../../../base/external/envoy/ci/prebuilt/BUILD

@@ -1,0 +1,12 @@
+
+package(default_visibility = ["//visibility:public"])
+
+filegroup(
+    name = "fetch_repo",
+    srcs = ["bin/fetch_repo"],
+)
+
+filegroup(
+    name = "gazelle",
+    srcs = ["bin/gazelle"],
+)

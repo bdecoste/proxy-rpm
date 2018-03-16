@@ -1,0 +1,2 @@
+# DO NOT EDIT: automatically generated WORKSPACE file for repo_rule rule
+workspace(name = "io_bazel_rules_go_repository_tools")
